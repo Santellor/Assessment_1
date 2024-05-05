@@ -157,8 +157,7 @@ for (const w of words) {
 ```
 
 - [ ] **A.** The code causes an error because `w` needs to be a `let` variable.
-- [x] **B.** The code causes an error because `words` is an array and `toUpperCase()` isn't a
-  valid array function.
+- [x] **B.** The code causes an error because `words` is an array and `toUpperCase()` isn't a valid array function.
 - [ ] **C.** The code causes an error because it will output `['JS', 'HTML', 'CSS']` three times.
 - [ ] **D.** There is no error; the code generates the expected output.
 
@@ -204,8 +203,7 @@ outputArgs('hi', 'bye');
 // bye
 ```
 
-- [x] **A.** The code causes an error because `outputArgs` takes in three arguments but it's being
-  called with just two.
+- [x] **A.** The code causes an error because `outputArgs` takes in three arguments but it's being called with just two.
 - [ ] **B.** The code causes an error because it will output `hi`, `bye`, and `undefined` instead
   of the expected output.
 - [ ] **C.** The code causes an error because the `a`, `b`, and `c` variables haven't been
